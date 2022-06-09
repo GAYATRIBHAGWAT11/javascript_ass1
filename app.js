@@ -801,29 +801,29 @@
 
 
 
-// let id=1001, b="james", a=800;
-// console.log("Customer ID-NO:", id);
-// console.log("Customer Name:",b);
-// console.log("unit Consumed :", a)
+ let id=1001, b="james", a=800;
+ console.log("Customer ID-NO:", id);
+ console.log("Customer Name:",b);
+ console.log("unit Consumed :", a)
 
-// let amount = 0;
-//   if(a <= 199){
-// 	  amount = a*1.20;
-//   }else if(a >=200 && a<400){
-// 	  amount = a*1.50;
-//   }else if(a >= 400 && a<600){
-// 	  amount = a*1.80
-//   }else{
-// 	  amount = a*2; 
-//     console.log("Amount Charges @Rs. 2.00 per unit:",amount)
-//   } 	
-//   let new_amount = 0;
-//   if(amount>400){
-// 	  new_amount = amount + amount*15/100;
-// 	  console.log("Net Amount paid by the customer:",new_amount);
-//   }else{
-//     console.log(amount);
-//   } 
+ let amount = 0;
+   if(a <= 199){
+ 	  amount = a*1.20;
+   }else if(a >=200 && a<400){
+ 	  amount = a*1.50;
+   }else if(a >= 400 && a<600){
+ 	  amount = a*1.80
+   }else{
+ 	  amount = a*2; 
+     console.log("Amount Charges @Rs. 2.00 per unit:",amount)
+   } 	
+   let new_amount = 0;
+   if(amount>400){
+ 	  new_amount = amount + amount*15/100;
+ 	  console.log("Net Amount paid by the customer:",new_amount);
+  }else{
+    console.log(amount);
+   } 
 
 
 
