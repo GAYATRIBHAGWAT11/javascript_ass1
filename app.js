@@ -8,21 +8,23 @@
 // Number1 and Number2 are equal
 
 /* Your answer here*/
-//  const a=5, b=10;
-//  console.log(a)
+
+
+//  a=5, b=10;
+//   console.log(a);
 
 // let a=45;
-// a=65;
-// var b=60;
-// b=70;
-// console.log(a,b)
-// if(a==b){
+//  a=65;
+//  let b=60;
+//  b=70;
+//  console.log(a,b)
+//  if(a==b){
 //     console.log("number 1&number 2 is equal");
-// }else{
-//     console.log("number1 and number2 are not equal");
-// }
+//  }else{
+//      console.log("number1 and number2 are not equal");
+//  }
 
-// console.log(!a==b ? "number1and number2 are equal": "number1and number2 are not equal");
+//  console.log(!a==b ? "number1and number2 are equal": "number1and number2 are not equal");
 
 
 
@@ -49,16 +51,18 @@
 
 
 // 2. Write a  program to check whether a given number is even or odd.
-// Test Data : 15
-// Expected Output :
-// 15 is an odd integer
+//  Test Data : 15
+//  Expected Output :
+//  15 is an odd integer
 
-// let a=15;
-// if(a % 2==0){
-//     console.log("EVEN")
-// }else{
-//     console.log("ODD")
-// }
+
+
+//  let a=15;
+//  if(a % 2==0){
+//      console.log(a, " is a EVEN integer")
+//  }else{
+//      console.log(a,"is ODD integer")
+//  }
 
 
 
@@ -98,13 +102,15 @@
 /* Your answer here*/
 
 
-// let a=15;
-// if(a>=0){
-//     console.log("POSITIVE")
-// }
-// else{
-//     console.log("NEGATIVE")
-// }
+
+
+//  let a=15;
+//  if(a>=0){
+//      console.log("POSITIVE")
+//  }
+//  else{
+//      console.log("NEGATIVE")
+//  }
 
 
 
